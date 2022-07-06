@@ -1,0 +1,7 @@
+name: FullServerJoin
+main: dev.pilati.fullserverjoin.FullServerJoin
+version: 1.0
+api-version: 1.13
+permissions:
+  fullserverjoin.bypass:
+    default: op
